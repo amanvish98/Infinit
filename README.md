@@ -1,0 +1,2 @@
+# Infinit
+Image genrative AI
